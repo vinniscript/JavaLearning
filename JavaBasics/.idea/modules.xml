@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation/private/private.iml" filepath="$PROJECT_DIR$/encapsulation/private/private.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation/static/static.iml" filepath="$PROJECT_DIR$/encapsulation/static/static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super/super.iml" filepath="$PROJECT_DIR$/super/super.iml" />
     </modules>
   </component>
 </project>
